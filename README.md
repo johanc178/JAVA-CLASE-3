@@ -6,7 +6,7 @@ Desarrollar un algoritmo que permita el cálculo del salario de un empleado teni
 -se debe ingresar el nombre del empeleado
 -se debe ingresar el documento de identidad 
 -el empleado podrá seleccionar un dia de descanso (L-V)
--el empleado tendrá ausilio de transporte si su salario bruto no supera los 2SMMLV
+-el empleado tendrá auxilio de transporte si su salario bruto no supera los 2SMMLV
 -el empleado recibirá una bonificacion sobre su salario bruto si no supera los 2smlv 
 -el empleado no podrá trabajar menos de 24 horas
 -el empleado recibirá pago de horas extras su supera las 96 horas 
